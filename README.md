@@ -134,7 +134,7 @@ Special thanks to open-source libraries like MFRC522, Keypad, and LiquidCrystal_
 
 **Prajwal Navalagi**  
 [LinkedIn](https://www.linkedin.com/in/prajwalnavalagi/) 
-[GitHub](https://github.com/your-username)  
+[GitHub](https://github.com/Prajwalsn17)  
 
 ## Project Demo
 
