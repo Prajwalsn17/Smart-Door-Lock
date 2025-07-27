@@ -1,7 +1,6 @@
 /*
  * RFID and Password Based Door Lock System
  * Author: Prajwal Navalagi
- * Repository: https://github.com/your-username/your-repo-name (update with actual link)
  * Description: This system uses MFRC522 RFID reader and a keypad to grant access
  *              based on RFID tags or a secure 6-digit password. It supports EEPROM
  *              password storage, password change, door lock/unlock mechanism using a relay,
